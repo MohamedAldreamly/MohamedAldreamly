@@ -14,35 +14,47 @@
 
 ---
 
-### ⚡ About Me
+### ⚡ Professional Summary
 
-I'm **Mohammed Al Dreamly**, a mechatronics engineering student with a focus on **embedded firmware**, **ARM Cortex-M microcontrollers**, and **real-time systems**.
+Mechatronics Engineering student focused on **embedded firmware and real-time control**, with hands-on development on **STM32 and ESP32**. My experience includes **register-level peripheral drivers**, **interrupt/DMA-based firmware**, **FreeRTOS/CMSIS-RTOS**, sensor and actuator control, debugging, testing, and technical documentation.
 
-I enjoy understanding how a system works from the **hardware registers and interrupt handlers** all the way to **communication protocols, device integration, and real-world behavior**.
+My technical interests and working knowledge span **MCU/board selection**, embedded development from **requirements through hardware/software integration and validation**, robotic mechanism design, PCB design, and IoT connectivity.
 
-- 🔬 **Core focus:** Embedded C, STM32, ESP32, device drivers, debugging and RTOS
-- 🐧 **Learning:** Embedded Linux and low-level systems development
-- 🧭 **Interests:** Industrial IoT, robotics, control and reliable firmware
-- ✨ **Engineering mindset:** Build, measure, debug, improve
+- 🎓 **B.Sc. Mechatronics Engineering** — Al-Azhar University, Gaza (expected 2027)
+- 🔬 **Focus:** Low-level Embedded C, ARM Cortex-M, RTOS and reliable device firmware
+- 🐧 **Currently expanding:** Embedded Linux and systems development
 
 <div align="center">
 <img src="./assets/embedded-lab.svg" alt="Animated schematic of sensor to microcontroller to actuator" width="100%" />
 </div>
 
-### 🧰 Engineering Toolbox
+### 🧰 Technical Skills & Tools
 
 <div align="center">
 
-![C](https://img.shields.io/badge/Embedded_C-165D93?style=for-the-badge&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-165D93?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0867A2?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-0D426D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-238DD1?style=for-the-badge&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1378B7?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Embedded_Linux-E9F5FC?style=for-the-badge&logo=linux&logoColor=143D62)
+![Linux](https://img.shields.io/badge/Embedded_Linux-Learning-E9F5FC?style=for-the-badge&logo=linux&logoColor=143D62)
 ![Git](https://img.shields.io/badge/Git-137DBB?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-193B61?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+| Area | Skills / Tools |
+|:--|:--|
+| **Programming & Architecture** | Embedded C, C++, basic Python, modular firmware, state machines |
+| **MCUs & RTOS** | STM32F103 (ARM Cortex-M3), ESP32-S3, ATmega32, custom educational RTOS scheduler, FreeRTOS, CMSIS-RTOS v2, tasks, queues, mutexes, event flags and timers |
+| **Peripherals & Communication** | GPIO, EXTI/NVIC, UART/USART, SPI, I²C, ADC, DMA, timers/PWM; CAN fundamentals, CANoe/CAPL and PCAN-USB FD labs |
+| **Low-level Firmware** | Memory-mapped I/O, register-level drivers, startup code, linker scripts, memory sections, MSP/PSP, SVC, PendSV and SysTick |
+| **Debugging & Development** | **Keil µVision**, **STM32CubeIDE**, **GDB**, **OpenOCD**, **ST-Link**, JTAG/SWD, logic-analyzer workflow, **Proteus**, **Git/GitHub**, **Make/CMake** |
+| **Sensors, Control & IoT** | MPU6050, ultrasonic, GPS/GNSS and Bluetooth modules; PID concepts, sensor/actuator integration, MQTT, TCP/IP, device-to-cloud workflows |
+| **Engineering Workflow** | Datasheet/reference-manual navigation, pin multiplexing, PCB/BOM planning, UML, requirements, Jira/Scrum, test-case design, integration & validation, MISRA-C awareness |
+
+<sub>Hands-on tools, technical training and working knowledge are grouped as described in my CV; familiarity with a technology does not imply professional mastery.</sub>
 
 ### 🧠 Things I Like Working With
 
